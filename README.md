@@ -3,7 +3,7 @@
 
 🔗 Official Verification Website:You can cross-check the scholarship result by visiting the official DBBL scholarship result page:🌐 https://app.dutchbanglabank.com/DBBLScholarship/showResultsGlobalParemetersAction.action?batch_Id=HSC-2018
 
-�📄 PDF Proof (GitHub Link):Here is the official scholarship letter page I received and uploaded:🔗 *[Insert your GitHub link here]*� How to verify:
+�📄 PDF Proof (GitHub Link):Here is the official scholarship letter page I received and uploaded:🔗 (https://github.com/mdnaiemgazi/DBBL-Scholarship-HSC-2018/blob/main/DBBL_Scholarship%20SL_1925_HSC_18.pdf)*� How to verify:
 
 Visit the official DBBL result link above.
 
